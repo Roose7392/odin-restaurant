@@ -1,6 +1,7 @@
 import loadAboutPage from "./loadAboutPage";
 import loadHomePage from "./loadHomePage";
 import loadMenuPage from "./loadMenuPage";
+import "./style.css";
 
 const homeButton = document.getElementById("nav-home");
 const menuButton = document.getElementById("nav-menu");
